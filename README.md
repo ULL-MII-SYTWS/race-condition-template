@@ -1,1 +1,1 @@
-See the lab [race-condtion](https://ull-mii-sytws.github.io/practicas/race-condition.html)
+See the lab [race-condition](https://ull-mii-sytws.github.io/practicas/race-condition.html)
